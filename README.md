@@ -1,5 +1,5 @@
 # Animated-landing-page
-This code appears to be for the website of Sidcup Family Golf, a multipurpose golf facility in London. Here's a breakdown of what the code does:
+
 
 HTML Structure:
 
